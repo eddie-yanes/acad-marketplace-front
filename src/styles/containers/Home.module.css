@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  height: 100%;
+  background-color: white;
+}
+
+.leftColumn{
+  width:25%;
+  min-width: 350px;
+  height: 100%;
+}
+
+.rightColumn{
+  width: 80%;
+  height: 100%;
+  padding: 24px;
+  padding-right: 50px;
+  overflow-y: scroll;
+}

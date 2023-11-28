@@ -1,0 +1,25 @@
+.rowComments{
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.formComment{
+  width: 100%;
+}
+
+.commentWrap{
+  width: 100%;
+}
+
+.listHeader{
+  display: flex;
+  align-items: center;
+}
+
+.listTitle{
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-left: 10px;
+}

@@ -1,0 +1,23 @@
+.item{
+  cursor: pointer;
+}
+
+.itemName{
+  text-transform:capitalize
+}
+
+.itemPrice{
+  font-weight: bold;
+}
+
+.itemCategory{
+  font-size: .7em;
+  color: #2D7DBF;
+  text-transform: capitalize;
+}
+
+.itemStore{
+  font-size: .7em;
+  font-weight: bold;
+  text-transform: capitalize;
+}

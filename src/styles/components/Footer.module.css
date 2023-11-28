@@ -1,0 +1,11 @@
+.container{
+  background-color: #545454;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container span {
+  color: white;
+}

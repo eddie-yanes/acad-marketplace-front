@@ -1,0 +1,29 @@
+.contentFilter {
+	margin-top: 60px;
+	margin-bottom: 32px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.itemFilter {
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+}
+
+.itemFilter p {
+	margin: 0;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: #9fa1a4;
+}
+.checkbox{
+	display: flex;
+	padding: 2px 0;
+}
+
+.checkbox:nth-child(1){
+	margin-left: 8px;
+}

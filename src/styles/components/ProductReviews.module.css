@@ -1,0 +1,25 @@
+.rowReviews{
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.formReview{
+  width: 100%;
+}
+
+.reviewsWrap{
+  width: 100%;
+}
+
+.listHeader{
+  display: flex;
+  align-items: center;
+}
+
+.listTitle{
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-left: 10px;
+}

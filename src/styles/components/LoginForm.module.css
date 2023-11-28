@@ -1,0 +1,30 @@
+.container{
+  padding: 20px;
+  width: 500px;
+  border-radius: 5px;
+  border-color: #ccc;
+}
+
+.titleWrap{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 20px;
+}
+
+.title{
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.subtitle{
+  margin: 0;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.btn{
+  border-radius: 5px;
+  height: 40px;
+}

@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.content{
+  width: 100%;
+  max-width: 1500px;
+  background-color:white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 50px;
+  overflow-y: scroll;
+}
+
+.ant-upload-list-item .ant-upload-list-item-error{
+  border-color: green !important;
+}
